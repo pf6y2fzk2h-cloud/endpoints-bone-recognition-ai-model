@@ -4,6 +4,7 @@
 Master's thesis project — Umeå University - Laura Wagenbach 
 A two-stage deep learning pipeline for automatically measuring the 2D:4D digit ratio 
 from hand radiographs (X-rays).
+Labelling of x-rays was done in sentisight.ai and json file was used as base for coordinates.
 
 ## Overview
 
